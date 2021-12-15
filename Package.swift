@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CardIO",
-            url: "https://github.com/jabeattie/CardIO/releases/download/5.4.1/CardIO.xcframework.zip",
-            checksum: "f55124090c9f5dcbca035dce81f9656983ec2d6e0372a723c691d338a57f8eec"
+            url: "https://github.com/jabeattie/CardIO/releases/download/5.4.2/CardIO.xcframework.zip",
+            checksum: "1540064328698ade2a88b6f70e740c9b35ad612eb112a099ff728c8352675e93"
         ),
     ]
 )
